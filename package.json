@@ -1,0 +1,19 @@
+{
+  "name": "smart-tagz",
+  "version": "0.3.3",
+  "description": "My custom smart tagz",
+  "main": "smart-tagz.esm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smeggingsmegger/custom-tags.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smeggingsmegger/custom-tags/issues"
+  },
+  "homepage": "https://github.com/smeggingsmegger/custom-tags#readme"
+}

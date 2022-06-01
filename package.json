@@ -2,7 +2,7 @@
   "name": "smart-tagz",
   "version": "0.3.3",
   "description": "My custom smart tagz",
-  "main": "smart-tagz.esm.js",
+  "main": "smart-tagz.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
